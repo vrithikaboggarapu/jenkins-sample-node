@@ -1,0 +1,12 @@
+{
+  "name": "jenkins-sample-node",
+  "version": "1.0.0",
+  "description": "A simple Node.js project for Jenkins pipeline testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "build": "node build.js"
+  },
+  "author": "Vrithika",
+  "license": "ISC"
+}
